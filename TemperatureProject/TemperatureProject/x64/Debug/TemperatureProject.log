@@ -1,0 +1,3 @@
+﻿  Temp.cpp
+C:\Users\jessi\source\repos\TemperatureProject\TemperatureProject\Temp.cpp(60,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TemperatureProject.vcxproj -> C:\Users\jessi\source\repos\TemperatureProject\x64\Debug\TemperatureProject.exe
